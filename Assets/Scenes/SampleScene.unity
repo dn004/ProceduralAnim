@@ -925,16 +925,31 @@ MonoBehaviour:
   - {fileID: 1752857630}
   - {fileID: 428916714}
   - {fileID: 198238212}
+  - {fileID: 322042689}
+  - {fileID: 592900522}
+  - {fileID: 214634683}
+  - {fileID: 2057373719}
+  - {fileID: 1545443659}
+  - {fileID: 262406857}
+  - {fileID: 1845691364}
   rightFootPositions:
   - {fileID: 1211734933}
   - {fileID: 1294955971}
   - {fileID: 1217251239}
   - {fileID: 542298593}
   - {fileID: 460573704}
+  - {fileID: 643251021}
+  - {fileID: 1023948355}
+  - {fileID: 1238537005}
+  - {fileID: 1023427301}
+  - {fileID: 561469042}
+  - {fileID: 901264087}
+  - {fileID: 1629659273}
   body: {fileID: 926908161}
   stepDuration: 1
   delayBeforeStart: 2
   timeBetweenSteps: 1
+  rotationDuration: 2
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1350,7 +1365,7 @@ Transform:
   m_GameObject: {fileID: 1294972102}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.22, y: 0.99, z: 9.78}
+  m_LocalPosition: {x: 2.22, y: 0.99, z: 10.08}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

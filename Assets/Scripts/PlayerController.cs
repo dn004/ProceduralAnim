@@ -8,9 +8,9 @@ public class PlayerController : MonoBehaviour
     public Transform[] leftFootPositions; 
     public Transform[] rightFootPositions;
     public Transform body; 
-    public float stepDuration = 2f; 
-    public float delayBeforeStart = 3f; 
-    public float timeBetweenSteps = 30f; 
+    public float stepDuration = 1f; 
+    public float delayBeforeStart = 2f; 
+    public float timeBetweenSteps = 2f; 
     public float rotationDuration = 1f; 
 
     private int currentStepIndex = 0;
